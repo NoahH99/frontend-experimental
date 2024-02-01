@@ -48,7 +48,7 @@ docker run -p 8080:8080 frontend-experimental-local
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/NoahH99/frontend-experimental/LICENSE).
+This project is licensed under the [MIT License](https://github.com/NoahH99/frontend-experimental/blob/master/LICENSE).
 
 ```
 MIT License
